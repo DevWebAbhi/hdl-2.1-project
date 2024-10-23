@@ -20,32 +20,32 @@
 
 ## 1.
 
-<img src="./files/FullAdder1.png.png" />
+<img src="./files/FullAdder1.png" />
 
 ## 2.
 
-<img src="./files/FullAdder2.png.png" />
+<img src="./files/FullAdder2.png" />
 
 ## 3.
 
-<img src="./files/FullAdder3.png.png" />
+<img src="./files/FullAdder3.png" />
 
 ## 4.
 
-<img src="./files/FullAdder4.png.png" />
+<img src="./files/FullAdder4.png" />
 
 ## 5.
 
-<img src="./files/FullAdder5.png.png" />
+<img src="./files/FullAdder5.png" />
 
 ## 6.
 
-<img src="./files/FullAdder6.png.png" />
+<img src="./files/FullAdder6.png" />
 
 ## 7.
 
-<img src="./files/FullAdder7.png.png" />
+<img src="./files/FullAdder7.png" />
 
 ## 8.
 
-<img src="./files/FullAdder8.png.png" />
+<img src="./files/FullAdder8.png" />
